@@ -20,11 +20,6 @@
                     <@global.footer />
                 </p>
             </div>
-            <div class="level-end">
-                <div class="field has-addons is-flex-center-mobile has-mt-5-mobile is-flex-wrap is-flex-middle">
-                    ${settings.links_footer!}
-                </div>
-            </div>
         </div>
     </div>
 </footer>
