@@ -98,15 +98,5 @@
                 <i class="fas fa-rss"></i>
             </a>
         </div>
-		<p>
-			<a target="_blank" title="QQ" href="https://jq.qq.com/?_wv=1027&k=57dvSNy">
-			    公众号：mumuser
-			</a>
-		</p>
-		<p>
-			<a target="_blank" title="QQ" href="https://jq.qq.com/?_wv=1027&k=5vWbtIi">
-			    企鹅群：932154986
-			</a>
-		</p>
 	</div>
 </div>

@@ -31,7 +31,7 @@
                     <i class="fas fa-search"></i>&nbsp;&nbsp;搜索
                 </a>
               	<a class="navbar-item" href="javascript:;" onclick="filtration_click()">
-              		<i class="fas fa-user"></i>&nbsp;&nbsp;个人信息
+              		<i class="fas fa-user"></i>&nbsp;&nbsp;联系我们
         		</a>
           	</div>
 		</div>
