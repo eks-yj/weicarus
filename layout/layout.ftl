@@ -32,7 +32,8 @@
           body>.footer,
           body>.navbar,
           body>.section {
-              opacity: 0
+              opacity: 0;
+              padding: 1rem 1.5rem;
           }
     </style>
     <#if is_post?? || is_sheet??>

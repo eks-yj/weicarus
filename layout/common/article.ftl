@@ -94,7 +94,7 @@
 					    </div>
 					</#if>
 				</#if>
-					
+
 				<#if index && post.summary?? && post.summary!=''>
 					<div class="level level-left article-meta is-size-7 is-uppercase is-overflow-x-auto">
 						<span class="has-text-grey"><i class="fas fa-user mr-2"></i>&nbsp;&nbsp;${user.nickname!"博主"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -115,7 +115,7 @@
 			 settings.donate_wechat!='' )>
 				<div class="card">
 					<div class="card-content">
-						<h3 class="menu-label has-text-centered">喜欢这篇文章？打赏一下作者吧</h3>
+						<h3 class="menu-label has-text-centered">喜欢这篇文章？打赏一下吧</h3>
 						<div class="buttons is-centered">
 							<#if settings.donate_alipay?? && settings.donate_alipay!=''>
 								<#include "../donate/alipay.ftl">
